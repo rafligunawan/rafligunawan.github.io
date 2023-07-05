@@ -11,16 +11,16 @@
     <div class="container">
        <h1>MEDICAL INSTRUMENTATION BOOKS RECOMMENDATION</h1>
        <p>Books recommendations to learn medical instrumentation :
-          1. Concrete Mathematics - Knuth
-          2. Data Structures using C in Depth - Srivastava
-          3. Introduction to Algorithms - Cormen
-          4. The Algorithm Design Manual - Skiena
-          5. The Art of Computer Programming - Knuth
-          6. Introduction to ML with Python - Muller
-          7.  Information Theory, Inference, and Learning Algorithms - MacKay
-          8. ML Probabilistic Perspective - Murphy
-          9. Deep Learning with Python - Chollet
-          10. Deep Learning - Bengjo
+            1. Review of Medical Physiology - Ganong
+            2. Electronic Instrumentation - Kalsi
+            3. Medical Instrumentation - Webster
+            4. Therapeutic Medical Devices - Cook & Webster
+            5. Medical Instrumentation: Application and Design - Webster
+            6. Textbook of Biomedical Instrumentation - Scott
+            7. Handbook of Biomedical Instrumentation - Khandpur
+            8. Radiation Dosimetry Instrumentation and Methods - Shani
+            9.  Deep Learning for Medical Image Analysis - Zhou
+            10. Medical Image Recognition, Segmentation and Parsing: Machine Learning and Multiple Object Approaches - Zhou
         </p>
         <a href="./medicalinstrumentation.html"><p>Click here to return to medical instrumentation page!</p>
         <a href="./index.html"><h2>Click here to return to main page!</h2></a>
